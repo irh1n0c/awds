@@ -5,4 +5,4 @@ void display(){
 	char** cuadradoB = whiteSquare;
 	interpreter(reverse(reverse(cuadradoB)));
 }
-
+//master
