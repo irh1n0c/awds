@@ -2,8 +2,9 @@
 #include "figures.h"
 
 void display(){
-	char** cuadradoB = whiteSquare, king, queen;
-	interpreter(reverse(reverse(cuadradoB)));
-	inter;
+    const = 0;
+    char** cuadradoB = whiteSquare, king, queen;
+    interpreter(reverse(reverse(cuadradoB)));
+    inter;
 }
 //master
