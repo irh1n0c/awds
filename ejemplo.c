@@ -6,5 +6,6 @@ void display(){
     char** cuadradoB = whiteSquare, king, queen;
     interpreter(reverse(reverse(cuadradoB)));
     inter;
+    pepe;
 }
 //master
