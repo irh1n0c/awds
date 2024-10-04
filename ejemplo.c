@@ -2,7 +2,7 @@
 #include "figures.h"
 
 void display(){
-	char** cuadradoB = whiteSquare, king;
+char** cuadradoB = whiteSquare, king, queen;
 	interpreter(reverse(reverse(cuadradoB)));
 }
 //master
